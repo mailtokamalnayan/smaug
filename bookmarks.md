@@ -1,3 +1,127 @@
+# Tuesday, January 27, 2026
+
+## @karpathy - LLM Coding Paradigm Shift and Reflections
+> A few random notes from claude coding quite a bit last few weeks.
+>
+> Coding workflow. Given the latest lift in LLM coding capability, like many others I rapidly went from about 80% manual+autocomplete coding and 20% agents in November to 80% agent coding and 20% edits+touchups in December...
+
+- **Tweet:** https://x.com/karpathy/status/2015883857489522876
+- **What:** Andrej Karpathy's comprehensive reflection on the fundamental shift in software engineering workflows enabled by advanced LLM agents, covering workflow changes, capabilities, limitations, and broader implications for the industry in 2026.
+
+---
+
+## @rincidium - Nano Banana Pro OG Image Design Prompt
+> Create an OG image for your website with Nano Banana Pro:
+>
+> Create a premium open-graph hero image for [BRAND]:
+>
+> A wide horizontal layout (16:9 ratio) designed for social sharing, website headers, and marketing collateral...
+
+- **Tweet:** https://x.com/rincidium/status/2015930122776564113
+- **What:** A detailed design system prompt for creating premium open-graph images that balance visual confidence with clean minimalism, emphasizing negative space and SaaS aesthetic across brand-consistent layouts.
+
+---
+
+# Thursday, January 15, 2026
+
+## @brian_lovin - Claude Code Best Practices Evaluation Framework
+> Idk, just type this into Claude Code and see what happens:
+>
+> """
+> Read the README on this repository: https://t.co/BjHHPqwrvw
+>
+> Explore the code base to learn about best practices and patterns for using Claude Code effectively...
+
+- **Tweet:** https://x.com/brian_lovin/status/2011579369710657641
+- **Link:** https://github.com/ChrisWiles/claude-code-showcase
+- **What:** A comprehensive guide demonstrating how to evaluate and implement Claude Code best practices through a systematic testing framework that measures impact before and after applying suggested improvements to project setup.
+
+---
+
+# Wednesday, January 14, 2026
+
+## @nityeshaga - Claude Code PPTX Skill for Gorgeous Presentations
+> I forked Claude's pptx skill to make Claude Code generate gorgeous presentations Claude can generate presentations using the pptx skill from @AnthropicAI but its output can be quite bland. Especially if you're used to the high aesthetic standards of @every. So I played around with the pptx skill, iterated it, built a design system, gave it image assets, gave it access to run nano-banana using api and added custom commands. End result? An every-pptx plugin! It takes you from an idea in your head → creating a https://t.co/TSbJ2Eh8xY file for the plan → preparing image assets using gemini nano banana → constructing the final ppt. All happening 100% inside Claude desktop app! s/o @amorriscode Now our team can use claude code to generate full-blown presentations, in the ~@every aesthetic. Check out the walkthrough below to see how it works.
+
+- **Tweet:** https://x.com/nityeshaga/status/2011188015503437856
+- **Link:** https://blueprint.md/
+- **What:** An enhanced fork of Claude's PPTX skill that generates high-quality presentations with a design system, image generation integration, and custom commands for professional-grade output.
+
+---
+
+## @fayazara - BucketDrop: Cloudflare R2 File Sharing Client
+> Made myself a @CloudflareDev R2 client, drop files and get a URL.
+>
+> This is BucketDrop, I sent it for test flight approval, will post once its ready https://t.co/T3D07q4fWo
+
+- **Tweet:** https://x.com/fayazara/status/2011294271379554724
+- **Link:** https://twitter.com/fayazara/status/2011294271379554724/video/1
+- **What:** A new Cloudflare R2-based file sharing tool that allows users to drop files and get shareable URLs in return. Currently under TestFlight review.
+
+---
+
+## @chris_nectiv - Google Analytics MCP for SEO Analysis
+> Oh man, the Google Analytics MCP is INCREDIBLY powerful for SEOs.
+>
+> You can have AI gather analytics data, find top performing content, analyze your content strategy + More: https://t.co/ohLKmycEfR
+
+- **Tweet:** https://x.com/chris_nectiv/status/2011472454816804871
+- **Link:** https://twitter.com/chris_nectiv/status/2011472454816804871/video/1
+- **What:** An MCP server that integrates Google Analytics with Claude, enabling SEO professionals to gather analytics data, identify top-performing content, and analyze content strategy through AI.
+
+---
+
+# Monday, January 12, 2026
+
+## @signulll - Modern Life Optimized for Surface Area Over Depth
+> was talking to my friend on a walk today about how modern life optimized for surface area, but not for real depth. tons of peeps have shit tons of weak ties, but often ~zero load bearing ones. this feels like abundance until you need exactly one person & realize the graph is near empty. what a fascinating failure mode of society through something everyone really wants which is abundance.
+
+- **Tweet:** https://x.com/signulll/status/2010497372665614377
+- **What:** A reflection on how modern society has created networks of weak ties and weak connections, leading to a paradox where abundance of connections masks scarcity of meaningful relationships.
+
+---
+
+## @EHuanglu - Building 3D Interactive Apps with Gemini 3 and Three.js
+> totally blown away by Google Gemini 3 + three.js.. just generated a 3D product interactive app with zero coding.. use hand gesture to rotate, scale, control xyz and lighting of 3D model AI is taking over.. accept or not tutorial with prompts & code below: https://t.co/l3R99B1GEu
+
+- **Tweet:** https://x.com/EHuanglu/status/2010730798278910282
+- **What:** A demonstration of using Google Gemini 3 with Three.js to generate interactive 3D product applications with gesture controls without writing any code.
+
+---
+
+# Sunday, January 11, 2026
+
+## @SahilBloom - 35 Life Lessons at 35
+> https://t.co/jB6DD34S1D
+
+- **Tweet:** https://x.com/SahilBloom/status/2010376554199572482
+- **Link:** https://x.com/i/article/2010374916621664257
+- **What:** A comprehensive article sharing 35 life lessons learned by age 35, covering reinvention, uncertainty tolerance, energy, showing up, confidence, hard work, and personal growth principles.
+
+---
+
+# Saturday, January 10, 2026
+
+## @regyperlera - Creating Miniature Isometric Figurines with Google Gemini Nano
+> For those asking, go to Google AI Studio, select Nano Banana Pro, upload a selfie, and use the prompt below. "Make a miniature, full-body, isometric, realistic figurine of this person, wearing ABC, doing XYZ, on a white background, minimal, 4K resolution."
+
+- **Tweet:** https://x.com/regyperlera/status/2010024069874512106
+- **What:** A tutorial for using Google's Gemini Nano with AI image generation to create personalized miniature figurine images from selfies.
+
+---
+
+# Thursday, January 8, 2026
+
+## @DBVolkov - Claude Code masterclass video
+> Instead of watching a 2-hour movie, watch this masterclass on Claude Code
+https://t.co/t1InWoci0J
+
+- **Tweet:** https://x.com/DBVolkov/status/2009203464916881432
+- **Link:** https://x.com/mattyp/status/2009063326366736512/video/1
+- **What:** A recommendation to watch a comprehensive Claude Code masterclass video as an alternative to watching a feature-length movie.
+
+---
+
 # Sunday, January 4, 2026
 
 ## @trq212 - AI alignment and interpretability resources
@@ -17,6 +141,18 @@
 ---
 
 # Saturday, January 3, 2026
+
+## @bcherny - Claude Code setup and usage approach
+> I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
+
+My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently.
+
+So, here goes.
+
+- **Tweet:** https://x.com/bcherny/status/2007179832300581177
+- **What:** Boris Cherny, creator of Claude Code, shares his personal setup approach, emphasizing that Claude Code works well with minimal customization and highlighting the flexibility of the tool for different user preferences.
+
+---
 
 ## @_kaitodev - Lovable for videos gaining traction
 > lovable for videos gets better everyday with new creators joining
@@ -465,6 +601,249 @@ it's live now do check it out and would appreciate your feedback https://t.co/DO
 
 - **Tweet:** https://x.com/donvito/status/2006743894147711370
 - **What:** Follow-up endorsement emphasizing the value proposition of GLM 4.7 at $3/month subscription rate. Reflects developer sentiment about the model's capabilities relative to pricing.
+
+---
+
+# Tuesday, December 16, 2025
+
+## @azed_ai - AI prompt for high-end product marketing campaigns
+> One prompt to create an amazing Ad campaign, use this prompt with any product you have and share your results
+
+Prompt:
+Create a 3×3 grid in
+3:4 aspect ratio for a high-end commercial marketing campaign using the uploaded product as the central subject.
+
+Each frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.
+
+Grid Concepts (one per cell):
+
+1. Iconic hero still life with bold composition
+
+2. Extreme macro detail highlighting material, surface, or texture
+
+3. Dynamic liquid or particle interaction surrounding the product
+
+4. Minimal sculptural arrangement with abstract forms
+
+5. Floating elements composition suggesting lightness and innovation
+
+6. Sensory close-up emphasizing tactility and realism
+
+7. Color-driven conceptual scene inspired by the product palette
+
+8. Ingredient or component abstraction (non-literal, symbolic)
+
+9. Surreal yet elegant fusion scene combining realism and imagination
+
+Visual Rules:
+Product must remain 100% accurate in shape, proportions, label, typography, color, and branding
+No distortion, deformation, or redesign of the product
+Clean separation between product and background
+
+Lighting & Style:
+Soft, controlled studio lighting
+Subtle highlights, realistic shadows
+High dynamic range, ultra-sharp focus
+Editorial luxury advertising aesthetic
+Premium sensory marketing look
+
+Overall Feel:
+Modern, refined, visually cohesive
+High-end commercial campaign
+Designed for brand websites, social grids, and digital billboards
+Hyperreal, cinematic, polished, and aspirational
+
+- **Tweet:** https://x.com/azed_ai/status/2000845183257292883
+- **What:** A comprehensive AI prompt template for generating a 9-image grid of high-end product advertisements with specific visual concepts, maintaining brand accuracy while creating diverse marketing materials for luxury brands.
+
+---
+
+# Sunday, December 14, 2025
+
+## @Arrogance_0024 - The spectacular collapse of the Spanish Empire
+> How does a former empire recover from its collapse?
+It doesn't. Look at Spain 🇪🇸.
+
+Spain simply sat down on a bench for a quick siesta at 2:30 PM in 1650, drifted into a 3-century coma, & woke up to discover it was now a budget hotel for the British working class.
+
+The fall of the Spanish Empire is the most spectacular geopolitical nose-dive in human history. They went from being the terrifying "Sword of Christendom"—the nation that owned the Americas, the oceans, the Vatican, Austria, Germany, and Belgium—to being a country whose primary contribution to the modern world is "Ibiza", Zara, and tapas. Ok, I'm exaggerating a bit... But you get the picture.
+
+The tragedy of Spain isn't that they lost their empire; it's that they became the servants of the people they used to bully. For two hundred years, the Spanish Infantry was the scourge of Europe, a terrifying machine of war that crushed Protestants for sport. Today? The descendants of those hardened tercios are frantically inflating banana boats for drunk German tourists in Mallorca.
+
+Spain possessed the greatest windfall in economic history: they looted an entire continent of its gold and silver. And what did they do with it? Did they build industry? Did they invest in infrastructure? No. They spent it all on fancy churches and wars they lost, then defaulted on their national debt thirteen times. They are the lottery winners of history who blew it all on cocaine and porcelain figurines and are now living in a trailer. Spain proves that you can be given the keys to the world and still manage to lock yourself out of the house.
+
+- **Tweet:** https://x.com/Arrogance_0024/status/1999952795378847956
+- **What:** A satirical historical analysis of how the Spanish Empire went from controlling vast territories and resources to becoming a tourism destination, illustrating how immense wealth and power can be squandered through poor economic decisions and military failures.
+
+---
+
+# Tuesday, December 9, 2025
+
+## @jakezward - This strategy got us to $62K MRR in 53 days:
+> This strategy got us to $62K MRR in 53 days:
+
+Yesterday, my co-founder @RobHoffman_ gave away our entire launch playbook on @gregisenberg's podcast.
+
+(plus 6 other playbooks, watch the full podcast here: https://t.co/o69Uog6zFX)
+
+Here's our Kleo launch playbook breakdown:
+
+Step 1: Content that doesn't feel like selling
+
+I call this 'edu-sales.'
+
+We created posts that led with value first.
+
+Then we included the Kleo waitlist signup link in the posts only when it logically supported the education.
+
+Most founders scream about their product at the top of every post. We did the opposite.
+
+We taught people how to write better LinkedIn content. Then casually mentioned how Kleo could help.
+
+Step 2: Launch to your waitlist with scarcity
+
+We built a 20,000+ person waitlist before launch.
+
+Then we opened beta access to just 500 people at $59/mo lifetime access (normal price: $99/mo).
+
+The constraint was real. We needed beta testers to bash bugs and validate features.
+
+But it also created urgency because the spots were genuinely limited, the lifetime discount was real, and people moved fast.
+
+Step 3: Run webinars for fence-sitters
+
+A lot of our sales came from the email launch alone.
+
+But some people needed more convincing.
+
+So we ran a couple 1-hour webinars to convert the fence-sitters.
+
+This wasn't for everyone. Just for the people on the waitlist who hadn't pulled the trigger yet.
+
+The webinars gave us that final push to convert more people.
+
+Step 4: Talk to 50+ customers
+
+Me and my co-founders stacked our calendars with customer calls.
+
+We learned which features people loved, where the bugs were, and what to ship next.
+
+This wasn't optional. It was the point of this strategy.
+
+Step 5: Repeat with a second cohort
+
+Second beta launch at $79/mo lifetime access.
+
+We followed the same process, made more improvements, and shipped an even better product.
+
+Now we're preparing for our public launch at $99/mo.
+
+We used this exact playbook twice:
+
+- Once for Kleo ($62K in 53 days)
+- Once for Mentions ($20K in 30 days)
+
+It works.
+
+- **Tweet:** https://x.com/jakezward/status/1998399373512769665
+- **Link:** https://www.youtube.com/watch?si=Qpjy4jtUKbkv6fCf&v=rO3dIBMXD2g&feature=youtu.be
+- **What:** This strategy got us to $62K MRR in 53 days:
+
+---
+
+## @FonsMans - Soft-edged serifs and custom typeface recommendations
+> Soft-edged serifs are underrated.
+
+Greg Gazdowicz nailed it with 'Means', the custom typeface he designed for Mailchimp.
+
+Looking for more typefaces in this direction.
+Which ones should I check out? https://t.co/uPZtZM8Ad5
+
+- **Tweet:** https://x.com/FonsMans/status/1998409851702042765
+- **Link:** https://twitter.com/FonsMans/status/1998409851702042765/photo/1
+- **What:** Discussion about underrated soft-edged serif typefaces, highlighting Greg Gazdowicz's 'Means' typeface designed for Mailchimp, and seeking recommendations for similar typeface styles.
+
+---
+
+# Monday, December 8, 2025
+
+## @CoachDanGo - Creatine
+> Creatine
+Caffeine
+Omega 3
+L-Theanine
+Whey protein
+Psyllium Husk
+Vitamin D3 and K2
+Electrolyte powder
+Magnesium Glycinate and/or L-threonate
+
+- **Tweet:** https://x.com/CoachDanGo/status/1997838951839895714
+- **What:** Creatine
+Caffeine
+Omega 3
+L-Theanine
+Whey protein
+Psyllium Husk
+Vitamin D3 and K2
+Electrolyte powder
+Magnesium Glycinate and/or L-threonate
+
+---
+
+# Sunday, December 7, 2025
+
+## @alibey_10 - if you use @shadcn ui for your apps, you're gonna love
+> if you use @shadcn ui for your apps, you're gonna love these tools and ui components:
+
+- https://t.co/ImgXQnWsu8 -> custom themes @raillyhugo
+- https://t.co/eat08fvfyd -> custom background @meghtrix
+- https://t.co/MeQ1ZMuAkq -> building forms
+- https://t.co/rBxxexZF8p -> animation @Ibelick
+- https://t.co/S9t2C7gK97 -> animation @davidhdev
+- https://t.co/GpXGtHVxsR -> embedded maps
+
+Follow for more tips about shadcn ecosystem
+
+- **Tweet:** https://x.com/alibey_10/status/1997660280843567141
+- **Link:** https://www.tinte.dev/
+- **What:** if you use @shadcn ui for your apps, you're gonna love these tools and ui components:
+
+---
+
+# Wednesday, December 3, 2025
+
+## @Camp4 - Some men are easy to shop for.
+> Some men are easy to shop for.
+
+I am not one of those men.
+
+I'm picky—a connoisseur. That's why I post an annual...
+
+HOLIDAY GIFT GUIDE FOR IMPOSSIBLE MEN
+
+Here are my 10 favorite finds for 2025 (#10 is epic):
+
+🧵 https://t.co/OoMRxHSZdG
+
+- **Tweet:** https://x.com/Camp4/status/1996199797892743335
+- **Link:** https://twitter.com/Camp4/status/1996199797892743335/photo/1
+- **What:** Some men are easy to shop for.
+
+---
+
+# Monday, December 1, 2025
+
+## @every - Two hundred people joined our Claude Code for Beginners
+> Two hundred people joined our Claude Code for Beginners course last month. Most had never written code.
+
+Eight hours later, they'd each deployed a working project.
+
+Here are 6 of the 23 questions they asked, compiled by @nityeshaga 🧵 https://t.co/yyfQsrYokG
+
+- **Tweet:** https://x.com/every/status/1995546718872764870
+- **Link:** https://twitter.com/every/status/1995546718872764870/photo/1
+- **What:** Two hundred people joined our Claude Code for Beginners course last month. Most had never written code.
 
 ---
 
